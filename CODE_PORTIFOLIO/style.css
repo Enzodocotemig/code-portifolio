@@ -1,0 +1,26 @@
+body{background-color: black;}
+#nome1{color: aliceblue;
+        margin-left: 18%;
+        margin-top: 10%;
+        font-family: cursive;
+        font-size: 500%;}
+
+#lista{display: flex;
+        gap: 120px;
+        margin-left: 25%;}
+
+#subtitulo{color: rgb(205, 160, 160);
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 24% ;}
+
+#ling1{width: 100px;
+        height: 100px;
+        margin-left: 30%;}
+
+#ling2{width: 100px;
+        height: 100px;
+        margin-left: 10%;}
+
+#ling3{width: 100px;
+height: 100px;
+margin-left: 10%;}
